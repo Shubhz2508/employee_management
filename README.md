@@ -23,3 +23,6 @@ This are the Screenshots of app working
 
 ![Screenshot (14)](https://github.com/Shubhz2508/employee_management/assets/117626394/85c0c03b-16f7-4411-839d-9f4b6727f4b4)
 ![Screenshot (15)](https://github.com/Shubhz2508/employee_management/assets/117626394/8b488121-cbdb-4a05-a9ee-40c63f59f214)
+
+
+SQL File is included in repo
