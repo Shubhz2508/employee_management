@@ -14,7 +14,7 @@ This are the Screenshots of app working
 
 
 
-**3. PErformed updating operation**
+**3. PErformed updating operation** (updated the gmail)
 
 
    ![Screenshot (12)](https://github.com/Shubhz2508/employee_management/assets/117626394/fa32985c-800a-4344-ba37-dc07a42d4c3d)
