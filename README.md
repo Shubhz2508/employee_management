@@ -4,7 +4,6 @@ This are the Screenshots of app working
 
 1. Index page with Login form ( route - employees/create )
 ![Screenshot (10)](https://github.com/Shubhz2508/employee_management/assets/117626394/0c921212-f4e6-4dcc-a9f4-089dc9b91bd2)
-![Screenshot (13)](https://github.com/Shubhz2508/employee_management/assets/117626394/b64bbfa1-9628-4895-961c-1a31265bc4ac)
 
 
 
